@@ -1,0 +1,2 @@
+select * from arc_cl_config for update;
+commit
