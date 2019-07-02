@@ -27,4 +27,3 @@ select sdevno, min(indocno) indocno from arc_bom group by sdevno;
 commit;
 select * from arc_bomclass;
 
-select * from arc_bomclass;
